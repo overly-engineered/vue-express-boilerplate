@@ -2,7 +2,6 @@
 
 ## Requirements
 
-- Mongodb@4.2.3
 - Node >=v10.19.0
 
 ## Setup
